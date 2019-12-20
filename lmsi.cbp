@@ -11,7 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters="MeeBot2.0.jpg" />
+				<Option parameters="C:\\Users\\4CR3F2S\\Desktop\\download.jpg" />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
